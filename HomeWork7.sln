@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2.GuessTheNumber", "Task2.GuessTheNumber\Task2.GuessTheNumber.csproj", "{57AF9842-E909-4A6B-836E-81E71CE328AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.Doubler", "Task1.Doubler\Task1.Doubler.csproj", "{19D98F5D-C142-4B86-9B04-A5E4A878BD0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57AF9842-E909-4A6B-836E-81E71CE328AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57AF9842-E909-4A6B-836E-81E71CE328AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57AF9842-E909-4A6B-836E-81E71CE328AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57AF9842-E909-4A6B-836E-81E71CE328AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D98F5D-C142-4B86-9B04-A5E4A878BD0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D98F5D-C142-4B86-9B04-A5E4A878BD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D98F5D-C142-4B86-9B04-A5E4A878BD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D98F5D-C142-4B86-9B04-A5E4A878BD0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {404F688E-A955-4A5B-AD10-582E4A751DDA}
+	EndGlobalSection
+EndGlobal
